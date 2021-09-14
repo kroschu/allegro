@@ -1,6 +1,17 @@
 {
 	"gitbook": "3.x.x",
 	"language": "uk",
+	"title": "Allegro_project",
+    "outputfile": "SUMMERYgen.md",
+    "catalog": "all",
+    "ignores": [
+               "htm",
+               "test",
+               "ude1"],
+    "unchanged": [
+                    ],
+    "sortedBy": "-",
+    "disableTitleFormatting": false ,
 	"plugins": [
 		"remove-published-with-link",
 		"intopic-toc",
