@@ -43,6 +43,9 @@
 		"sidebar": {
 		   	"Головна сторінка проекту": "https://ua-project.treba.ml",
 			"Інтерфейс адмиіністратора": "https://pt1.treba.ml",
+			"Центр підтримки": "https://tasks.treba.ml/scp/login.php",
+		    "Запит в центр підтримки": "https://tasks.treba.ml/open.php",
+		    "Персональний сайт розробника": "https://vokov.netlify.app",
 			"Лист розробнику": "mailto:tukroschu@gmail.com"
 		}
 	},
