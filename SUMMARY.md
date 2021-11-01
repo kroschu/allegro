@@ -1,7 +1,0 @@
-* [Проект Allegro](README.md)
-* [Управління завданнями](https://project.treba.ml)
-* [ТО "Конфігурування"](Tehnologіchnі-operacіya.md)
-* [Засоби виробництва](zasoby.md)
-* [Інструменти](Іnstrumenti.md)
-* [Процес конфігурування](conf-proces.md)
-   * [Підготовка](Підготовка.md)
